@@ -1,0 +1,1 @@
+This repository is for submitting the exercises in the Fullstack course
