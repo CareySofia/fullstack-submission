@@ -30,6 +30,7 @@ const App = () => {
   const [bad, setBad] = useState(0)
   const [allClicks, setAll] = useState([])
 
+  // click button event handler
   const handleGoodClick = () => {
     console.log("clicked good")
     setGood(good + 1)
